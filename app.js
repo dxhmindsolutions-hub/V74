@@ -33,6 +33,7 @@ const categories = [
   "Limpieza",
   "Congelados",
   "Asiático",
+  "Conservas",
   "Otros"
 ];
 
