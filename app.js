@@ -53,6 +53,7 @@ if(providers.length === 0){
     "Bgrup",
     "Pascual",
     "Mercadona"
+    "Bonarea"
   ];
 }
 
