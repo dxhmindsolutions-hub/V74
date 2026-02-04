@@ -24,16 +24,19 @@ function toggleEditMode(){
 /* ===== CATEGORÍAS ===== */
 const categories = [
   "Aguas y refrescos",
-  "Cerveza, vinos y licores",
+  "Cervezas",
+  "Bodega",
+  "Licores",
   "Café y té",
   "Frutas y verduras",
   "Lácteos y huevos",
   "Carne",
-  "Pescado",
+  "Marisco",
   "Limpieza",
   "Congelados",
   "Asiático",
   "Conservas",
+  "Aceite, especias y salsas",
   "Otros"
 ];
 
